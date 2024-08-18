@@ -2,15 +2,7 @@
 
 ## Whats been implemented
 
-Here is a very high level list of what I've made so far. More details on each one further down.
-Pixellated camera
-Toon shader
-Grass shader
-Isometric camera
-Grass spawner (Poisson-Disc Sampling)
-Dynamic day night cycle
-Isometric player movement
-Particle effects
+Here is a very high level list of what I've made so far. More details on each one further down: Pixellated camera, Toon shader, Grass shader, Isometric camera, Grass spawner (Poisson-Disc Sampling), Dynamic day night cycle, Isometric player movement, Particle effects.
 
 ## Features Explained
 Here I'll explain each feature in more detail.
